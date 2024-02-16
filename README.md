@@ -1,5 +1,5 @@
 # theTeamStatsTest
-Test navigating to the Team Stats page on an Android theScore app.
+Test navigating to the Team Stats page on an Android theScore app, using Java/Appium/TestNG/Maven.
 
 ## Description
 This is an initial stage of building out a test automation framework for theScore Android app. It has a basic test to 1) go through the onboarding flow and 2) to actually find a sports team’s stats page in a data-driven fashion.  It should have enough of the basic foundation to build upon to increase test coverage.
